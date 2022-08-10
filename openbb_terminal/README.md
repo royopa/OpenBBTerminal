@@ -343,7 +343,7 @@ There are a few things that still don't work, and you can see what works and wha
 6. Navigate into the project's folder
 
    ```bash
-   cd OpenBB/
+   cd OpenBBTerminal/
    ```
 
 7. Create Environment
